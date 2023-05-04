@@ -1,4 +1,4 @@
-let navBar = document.querySelector('#navbar');
+let navBar = document.querySelector('.navbar');
 let darkMode = document.querySelector('#dark-mode-icon');
 let body = document.body;
 
